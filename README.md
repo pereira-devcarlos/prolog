@@ -1,6 +1,6 @@
 # Estudos em Programação Lógica com Prolog
 
-Este repositório contém materiais, exemplos e exercícios relacionados ao estudo de Programação Lógica utilizando a linguagem Prolog. O objetivo é servir como apoio para aprendizado, prática e consulta sobre conceitos fundamentais e aplicações de Prolog.
+Este repositório contém materiais, exemplos e exercícios relacionados ao estudo de Programação Lógica utilizando a linguagem Prolog. O objetivo é práticar e consultar sobre conceitos fundamentais e aplicações de Prolog.
 
 ## Sobre Prolog
 
